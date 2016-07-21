@@ -1,1 +1,1 @@
-# Intro-to-C-on-CAEN
+# Intro-to-C++-on-CAEN
