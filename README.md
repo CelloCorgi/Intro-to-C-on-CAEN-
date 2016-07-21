@@ -3,4 +3,4 @@
 
 
 
-Welcome to the Intro to C++ on CAEN wiki! This is an introduction to programing in C++, meant for students learning on CAEN computers at the University of Michigan (though it may be useful for others too). Links to the tutorials can be found in the wiki.
+Welcome to the Intro to C++ on CAEN wiki! This is an introduction to programing in C++, meant for students learning on CAEN computers at the University of Michigan (though it may be useful for others too). It was orriginaly written for students at Michigan's MiBytes Summer Coding Camp Links to the tutorials can be found in the wiki.
